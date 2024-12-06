@@ -1,6 +1,6 @@
 geopandas
 folium
 pandas
-streamline_folium
+streamlit_folium
 plotly
 requests
